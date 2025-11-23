@@ -63,23 +63,25 @@ power coupled to thecollinear to that in the main arm, in dB. This value is arou
 
 **F.	Observation:**
 
-**Isolation measurement** (Tabulation)
+**Isolation measurement** 
 
-**Measurement of power division** 
-
-![WhatsApp Image 2025-11-06 at 08 56 03_2052feda](https://github.com/user-attachments/assets/54eb8148-ba8e-4846-a11e-83823fc7267a)
+<img width="1280" height="405" alt="image" src="https://github.com/user-attachments/assets/136a285f-e476-4a7e-8b4d-bbcf8f7ba0cd" />
 
 
+**Measurement of power division**  
 
-**G.	Analysis of Results: (Write your own)**
+<img width="1108" height="188" alt="image" src="https://github.com/user-attachments/assets/d6e99a41-016e-4e89-a9e0-75fe0ca68896" />
 
-![WhatsApp Image 2025-11-06 at 08 56 02_a8e723f1](https://github.com/user-attachments/assets/b9a362ae-ba6b-4847-8bd8-f4ef88b1e949)
 
+**G.	Analysis of Results:**
+
+Isolation = A₁ − A₂ = 20.0 − 1.0 = 19.0 dB. Interpretation: only ~1/79 of the power fed into the E-arm appears at the H-arm (good isolation). Power division (coupling to collinear arm) = A₁ − A₂ = 20.0 − 17.0 = 3.0 dB. Interpretation: input power splits equally between the two collinear arms (each receives ≈ half the power).
 
 **H.	Conclusions: (Write your Own)**
 
 Isolation between E and H arms (dB) = (A1 – A2) dB
-Coupling between collinear arms and E/H arms (dB) = (A1 – A2) dB
+
+Coupling between collinear arms and E/H arms (dB) = (A1 – A2) dB = 716mV
 
 **Precautions:**
 
@@ -89,4 +91,4 @@ Coupling between collinear arms and E/H arms (dB) = (A1 – A2) dB
 
 **Result:**
 
-The isolation between the E and H arms of the magic tee was successfully measured and found to be within the expected range, indicating proper isolation between the ports. The power division between the collinear arms was observed to be approximately 3 dB, confirming that the magic tee equally divides the input power into two arms with minimal loss. Thus, the magic tee functions effectively as a hybrid junction for power division and signal isolation in microwave systems.
+Isolation between E and H arms ≈ 19 dB; power division in the collinear arms ≈ 3 dB (equal split).
